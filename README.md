@@ -29,7 +29,7 @@ powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | ie
 ### Step 2 — Clone the repository
 
 ```bash
-git clone git@github.com:PaulineF38/FitNessy.git
+git https://github.com/PaulineF38/FitNessy.git
 cd FitNessy
 ```
 
