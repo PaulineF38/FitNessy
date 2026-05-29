@@ -85,4 +85,4 @@ A window opens. Click **"Choisir Niveau!"**, pick your difficulty, and start you
 
 ---
 
-*Group school project — 2024/2025*
+*Group school project — 2025/2026*
