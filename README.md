@@ -85,4 +85,5 @@ Choose between **Easy**, **Medium**, and **Hard** — each level unlocks more ex
 
 ---
 
-*Group school project — 2024/2025*
+
+*Group school project — 2025/2026*
